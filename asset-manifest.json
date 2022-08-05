@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.250e3370.css",
+    "main.js": "/static/js/main.ce9ca43e.js",
+    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
+    "static/media/video3.mp4": "/static/media/video3.5e0e047c088ad5020262.mp4",
+    "static/media/404 err.gif": "/static/media/404 err.cde54bca53a7753cdb5e.gif",
+    "static/media/luxury.svg": "/static/media/luxury.75e92042c9e9d7ceb71d82e9bc47ddae.svg",
+    "static/media/altoB.jpg": "/static/media/altoB.0d53911fb8861aca6014.jpg",
+    "static/media/car.png": "/static/media/car.9c71d242511fc8e8b05f.png",
+    "static/media/altoS.jpg": "/static/media/altoS.adbf66ba9411642aabe8.jpg",
+    "static/media/altoF.jpg": "/static/media/altoF.b9f97fba75487686b9de.jpg",
+    "static/media/OrderRide.svg": "/static/media/OrderRide.adfd3597cb5d253d796477389c754f42.svg",
+    "static/media/frontCar.svg": "/static/media/frontCar.16b076f6686f99bce79f846f3eb75346.svg",
+    "static/media/wedding.svg": "/static/media/wedding.45ce3ee6171e82aeddac23a4815f3e3e.svg",
+    "static/media/car.jpg": "/static/media/car.8576c2d2fd5ca1ce802f.jpg",
+    "static/media/altoIn.jpg": "/static/media/altoIn.e4bfee606d9d76f88d7a.jpg",
+    "index.html": "/index.html",
+    "main.250e3370.css.map": "/static/css/main.250e3370.css.map",
+    "main.ce9ca43e.js.map": "/static/js/main.ce9ca43e.js.map",
+    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250e3370.css",
+    "static/js/main.ce9ca43e.js"
+  ]
+}
